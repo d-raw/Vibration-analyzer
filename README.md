@@ -1,1 +1,2 @@
-# Different-Types-of-Responses-in-a-Single-DOF-vibration-system
+# Vibration Analyzer
+- for 1 DOF, damped/undamped and forced/free vibrations
